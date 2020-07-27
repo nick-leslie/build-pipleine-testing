@@ -1,1 +1,5 @@
-console.log("this is a test");
+function add(a,b) {
+    return a+b;
+}
+
+module.exports = add;
